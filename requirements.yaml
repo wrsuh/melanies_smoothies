@@ -1,4 +1,4 @@
-requirements.txt
+#requirements.txt
 python=3.9
 snowflake-connector-python
-streamlit
+streamlit=1.31.1

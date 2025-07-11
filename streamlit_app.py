@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-from snowflake.connector import connect
+from snowflake.connector import col
 
 # Write directly to the app
 st.title(f":cup_with_straw: Customize Your Smoothie :cup_with_straw: ")

@@ -1,8 +1,4 @@
-requirements.txt
-pandas
-plotly
+# requirements.txt
+snowflake-snowpark-python
 streamlit
-yfinance
-pandas-datareader
-prophet
 
